@@ -163,7 +163,7 @@ def process_single_mode(
     
     with col1:
         st.subheader("Original")
-        st.image(image, use_container_width=True)
+        st.image(image, width='stretch')
         
         # Show image info
         with st.expander("Bild-Analyse", expanded=False):
@@ -212,7 +212,7 @@ def process_single_mode(
         data=svg_content,
         file_name=Path(uploaded_file.name).stem + '.svg',
         mime="image/svg+xml",
-        use_container_width=True
+        width='stretch'
     )
     
     # Show SVG code
@@ -330,7 +330,7 @@ def process_batch_mode(
             data=zip_data,
             file_name="converted_svgs.zip",
             mime="application/zip",
-            use_container_width=True
+            width='stretch'
         )
 
 

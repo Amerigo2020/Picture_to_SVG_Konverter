@@ -5,7 +5,6 @@
 ## 🚧 In Progress
 | Feature | Status | Next Step | Prio |
 |---------|--------|-----------|------|
-| [streamlit-deprecation-fixes](./streamlit-deprecation-fixes/) | 🟡 WIP | Replace deprecated params | P1 |
 | emoji-removal | 🟡 WIP | Implement emoji removal across files | P1 |
 
 ## 📋 Planned
@@ -16,4 +15,5 @@
 ## ✅ Completed
 | Feature | Completed on |
 |---------|--------------|
+| [streamlit-deprecation-fixes](./_archive/streamlit-deprecation-fixes/) | 2025-12-26 |
 | initial-setup | 2025-12-24 |
