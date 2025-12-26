@@ -15,5 +15,6 @@
 ## ✅ Completed
 | Feature | Completed on |
 |---------|--------------|
+| [bugfix-libgl-import-error](./_archive/bugfix-libgl-import-error/) | 2025-12-26 |
 | [streamlit-deprecation-fixes](./_archive/streamlit-deprecation-fixes/) | 2025-12-26 |
 | initial-setup | 2025-12-24 |
